@@ -1,0 +1,1 @@
+spring、springmvc和mybatis三框架整合，采用配置文件方式实现
